@@ -38,4 +38,4 @@ Essential skills that i acquired in order to properly guide my team to success
 -  Vizualization: PowerBI
 
   ### 🙌Ways to connect with me
--   Linkedin
+-   Linkedin: https://linkedin.com/in/milos-bogdanovicbusiness
