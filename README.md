@@ -1,5 +1,7 @@
 # Introduction 👋
-<img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/ReadMe%20Banner.png" style="width:100%; height:50vh;" />
+<p align="center">
+ <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/ReadMe%20Banner.png" style="width:80%; height:50vh;" />
+</p>
 
 Greetings, my name is Milos. I'm an IT  support manager in a global leading IT company, looking to step into the world of data analityics!
 Some of my experience which i can circle back to data analythics would be handling/reporting KPI metrics, leading shareholder meetings & providing answers to client's business questions through detailed analysis, implementing team process changes based od ad hoc analysis, managing teams across multiple brands(adjusting team position slots across multiple grades based on KPI metrics).
