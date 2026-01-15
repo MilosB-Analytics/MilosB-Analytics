@@ -5,12 +5,16 @@ Greetings, my name is Milos. I'm an IT  support manager in a global leading IT c
 Some of my experience which i can circle back to data analythics would be handling/reporting KPI metrics, leading shareholder meetings & providing answers to client's business questions through detailed analysis, implementing team process changes based od ad hoc analysis, managing teams across multiple brands(adjusting team position slots across multiple grades based on KPI metrics).
 
 ### 📊Data Analysis Skills:
+These are the skills which i use on a daily basis while working on my projects.
+
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards through PowerBI.
 - Data analysis and reporting using Google Sheets and Excel.
 
 ### 👦Soft Leadership Skills:
+Essential skills that i acquired in order to properly guide my team to success
+
 -   Internal/External de-escalation & conflict resolution
 -   Positive response to critizism & providing next steps
 -   Emotional intelligence & communication
@@ -25,6 +29,8 @@ Some of my experience which i can circle back to data analythics would be handli
 -   Data Visualization & story telling(Data Modeling, View Creation, Dashboards)
 
   ### 🔧Tools 
+  Software which I use to provide results
+  
 -  Language: SQL, DAX
 -  Database: MySQL & Snowflake
 -  Vizualization: PowerBI
