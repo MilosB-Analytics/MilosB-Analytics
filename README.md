@@ -1,6 +1,6 @@
 # Introduction 👋
 <p align="center">
- <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/ReadMe%20Banner.png" style="width:80%; height:50vh;" />
+ <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/ReadMe%20Banner1.jpg" style="width:100%; height:auto;" />
 </p>
 
 Greetings, my name is Milos. I'm an IT  support manager in a global leading IT company, looking to step into the world of data analityics!
