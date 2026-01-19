@@ -13,6 +13,7 @@ These are the skills which i use on a daily basis while working on my projects:
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards through PowerBI.
 - Data analysis and reporting using Google Sheets and Excel.
+- AI utilization
 
 ### 👦Soft Leadership Skills:
 Essential skills that i acquired in order to properly guide my team to success:
