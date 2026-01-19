@@ -25,7 +25,7 @@ Essential skills that i acquired in order to properly guide my team to success:
 ### 📑Projects
   Thank you for looking through my portfolio! Here is where i share the projects that i have worked on.
 <br>Take a look! 
-[ACG: EDA/Customer-Experience](https://github.com/MilosB-Analytics/Aurelius-Commerce-Group-ACG-EDA-Customer-Experience/tree/main)
+[ACG: EDA/Customer-Experience](https://github.com/MilosB-Analytics/Aurelius-Commerce-Group-ACG-EDA-Customer-Experience/blob/main/README.md)
   
   They will be split into 3 categories: 
 -   Data cleaning/preparation (Excel & SQL)
