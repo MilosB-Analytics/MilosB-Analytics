@@ -3,7 +3,7 @@
  <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/ReadMe%20Banner1.jpg" style="width:100%; height:auto;" />
 </p>
 
-Greetings, my name is Milos. I'm an IT  support manager in a global leading IT company, looking to step into the world of data analityics!
+Greetings, my name is Milos. I'm an IT  support supervisor in a global leading IT company (National Cash Register - NCR Voyix), looking to implement my skills into the world of data analityics!
 Some of my experience which i can circle back to data analythics would be handling/reporting KPI metrics, leading shareholder meetings & providing answers to client's business questions through detailed analysis, implementing team process changes based od ad hoc analysis, managing teams across multiple brands (adjusting team position slots across multiple grades based on KPI metrics).
 
 ### 📊Data Analysis Skills:
