@@ -1,6 +1,6 @@
 # Introduction 👋
 <p align="center">
- <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/ReadMe%20Banner1.jpg" style="width:100%; height:auto;" />
+ <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/ReadMe%20Banner1.jpg" style="width:100%; height:auto;" />
 </p>
 
 Greetings, my name is Milos. I'm an IT  support supervisor in a global leading IT company (National Cash Register - NCR Voyix), looking to implement my skills into the world of data analityics!
