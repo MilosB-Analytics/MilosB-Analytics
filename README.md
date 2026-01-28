@@ -3,45 +3,52 @@
  <img src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/ReadMe%20Banner1.jpg" style="width:100%; height:auto;" />
 </p>
 
-Greetings, my name is Milos. I'm an IT  support supervisor in a global leading IT company (National Cash Register - NCR Voyix), looking to implement my skills into the world of data analityics!
-Some of my experience which i can circle back to data analythics would be handling/reporting KPI metrics, leading shareholder meetings & providing answers to client's business questions through detailed analysis, implementing team process changes based od ad hoc analysis, managing teams across multiple brands (adjusting team position slots across multiple grades based on KPI metrics).
+Hello, I’m Milos — a <strong>Freelance Data Analyst</strong> with a strong operational background in IT leadership.
 
-### 📊Data Analysis Skills:
-These are the skills which I use on a daily basis while working on my projects:
+I currently work as an IT Support Supervisor at NCR Voyix, where I apply data analysis to drive performance, optimize processes, and support business decision-making at scale. My work includes KPI definition and reporting, executive-level performance reviews, and translating operational data into clear, actionable insights for stakeholders.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards through PowerBI.
-- Data analysis and reporting using Google Sheets and Excel.
-- AI utilization
+I have hands-on experience analyzing sales and performance metrics, supporting shareholder and client-facing discussions, and leading data-driven process improvements. I’ve also managed cross-brand teams by reallocating resources and adjusting role distribution based on KPI trends, demand forecasting, and performance analysis.
 
-### 👦Soft & Leadership Skills:
-Essential skills that I acquired in order to properly guide my team to success:
+This portfolio showcases end-to-end analytics projects—from data cleaning and modeling to dashboarding and insight generation—focused on real-world business questions and decision support.
 
--   Internal/External de-escalation & conflict resolution
--   Positive response to critizism & providing next steps
--   Emotional intelligence & communication
--   Decision-Making & strategic thinking
-
-### 📑Projects
-  Thank you for looking through my portfolio! Here is where i share the projects that i have worked on.
-<br>Take a look:
+<h2> 📊Core Data Analysis Skills:</h2>
+Skills I apply daily to deliver actionable insights and support data-driven decision-making:
+<ul>
+<li>Querying and analyzing data using SQL- Generate reports and perform ad-hoc data analysis using SQL.</li>
+<li>Performing ad-hoc analysis and generating reports via SQL- Data analysis and reporting using Google Sheets and Excel.</li>
+<li>Building interactive dashboards in Power BI</li>
+<li>Data analysis and reporting using Excel and Google Sheets</li>
+<li>Leveraging AI tools to support data cleaning, analysis, and insight generation</li>
+</ul>
+ 
+<h2>Leadership & Soft Skills:</h2>
+Key skills developed through team management and stakeholder engagement:
+<ul>
+<li>Conflict resolution and de-escalation (internal & external)</li>
+<li>Receiving and acting on constructive feedback</li>
+<li>Emotional intelligence and clear communication</li>
+<li>Strategic decision-making and operational thinking</li>
+</ul>
+<h2>📑Projects</h2>
+Thank you for visiting my portfolio! Here, I showcase projects demonstrating end-to-end analytics workflows:
 <ul>
  <li> <a href="https://github.com/MilosB-Analytics/VoltEdge_E-Commerce/blob/main/README.md">VoltEdge E-Commerce</a> </li>
-<li> <a href="https://github.com/MilosB-Analytics/Aurelius-Commerce-Group-ACG-EDA-Customer-Experience/blob/main/README.md">ACG: EDA/Customer-Experience</a> </li>
+ <li> <a href="https://github.com/MilosB-Analytics/Aurelius-Commerce-Group-ACG-EDA-Customer-Experience/blob/main/README.md">ACG: EDA/Customer-Experience</a> </li>
+</ul>
+ <h4>Projects are organized into three categories:</h4>
+ <ul>
+ <li>Data Cleaning & Preparation: Excel & SQL</li>
+ <li>Data Analysis: Exploratory Data Analysis (EDA), Funnel Analysis, Drilldowns</li>
+ <li>Data Visualization & Storytelling: Data modeling, view creation, dashboards</li>
 </ul>
   
-  They will be split into 3 categories: 
--   Data cleaning/preparation (Excel & SQL)
--   Data analysis (EDA, Funnel, Drilldown...)
--   Data Visualization & storytelling (Data Modeling, View Creation, Dashboards)
 
-  ### 🔧Tools 
-  Software which I use to provide results:
-  
--  Language: SQL, DAX
--  Database: MySQL & Snowflake
--  Vizualization: PowerBI
-
-  ### 🙌Ways to connect with me
+<h2>🔧Tools </h2>
+Technologies I use to extract, analyze, and visualize data:  
+<ul>
+<li>Language: SQL, DAX</li>
+<li>Database: MySQL & Snowflake</li>
+<li>Vizualization: PowerBI</li>
+</ul>
+<h2>🙌Ways to connect with me</h2>
 -   Linkedin: https://linkedin.com/in/milos-bogdanovicbusiness
