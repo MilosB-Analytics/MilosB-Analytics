@@ -25,10 +25,11 @@ Essential skills that I acquired in order to properly guide my team to success:
 
 ### 📑Projects
   Thank you for looking through my portfolio! Here is where i share the projects that i have worked on.
-<br>Take a look! 
-[VoltEdge E-Commerce](https://github.com/MilosB-Analytics/VoltEdge_E-Commerce/blob/main/README.md)
-[ACG: EDA/Customer-Experience](https://github.com/MilosB-Analytics/Aurelius-Commerce-Group-ACG-EDA-Customer-Experience/blob/main/README.md)
-
+<br>Take a look:
+<ul>
+ <li> <a href="https://github.com/MilosB-Analytics/VoltEdge_E-Commerce/blob/main/README.md">VoltEdge E-Commerce</a> </li>
+<li> <a href="https://github.com/MilosB-Analytics/Aurelius-Commerce-Group-ACG-EDA-Customer-Experience/blob/main/README.md">ACG: EDA/Customer-Experience</a> </li>
+</ul>
   
   They will be split into 3 categories: 
 -   Data cleaning/preparation (Excel & SQL)
