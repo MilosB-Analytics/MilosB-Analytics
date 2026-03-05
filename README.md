@@ -34,8 +34,8 @@ Thank you for visiting my portfolio! Here, I showcase projects demonstrating end
 <ul>
  <li> <a href="https://github.com/MilosB-Analytics/VoltEdge_E-Commerce/blob/main/README.md">VoltEdge E-Commerce</a> </li>
  <li> <a href="https://github.com/MilosB-Analytics/Aurelius-Commerce-Group-ACG-EDA-Customer-Experience/blob/main/README.md">ACG: EDA/Customer-Experience</a> </li>
- <li> <a href="https://github.com/MilosB-Analytics/HomeShop_Ecommerce-Sales-Analysis/blob/main/README.md"></a>HomeShop: Sales Growth Analysis</li>
- <li> <a href="https://github.com/MilosB-Analytics/MarketFlow_Trending-Sales-Analysis/blob/main/README.md"></a>Market Flow: Sales Trends Analsis(Excel Exclusive)</li>
+ <li> <a href="https://github.com/MilosB-Analytics/HomeShop_Ecommerce-Sales-Analysis/blob/main/README.md">HomeShop: Sales Growth Analysis</a></li>
+ <li> <a href="https://github.com/MilosB-Analytics/MarketFlow_Trending-Sales-Analysis/blob/main/README.md">Market Flow: Sales Trends Analsis(Excel Exclusive)</a></li>
 </ul>
  <h4>Projects are organized into three categories:</h4>
  <ul>
